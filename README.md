@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Computer Science Student<br><br>🚀 Backend Developer (.NET)<br><br>🌱 Learning ASP.NET Core, Entity Framework Core and SQL Server<br><br>🔧 Building REST APIs and Backend Applications<br><br>📚 Interested in Software Architecture and AI
+💻 Computer Science Student<br><br>🚀 Backend Developer (.NET)<br><br>🌱 Learning ASP.NET Core, Entity Framework Core and SQL Server<br><br>🔧 Building REST APIs and Backend Applications<br><br>📚 Interested in Software Architecture and AI<br><br> 🎸 Fun Fact: I play Bass Guitar and enjoy serving in Worship Teams
 
 
 ## 🌐 Socials:
